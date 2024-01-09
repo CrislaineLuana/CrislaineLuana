@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Crislaine.👋
 
-Sou estudante de engenharia de software e atualmente sou programdora na área de desenvolvimento TI.
+Sou estudante de engenharia de software e atualmente sou programadora na área de desenvolvimento TI.
 tenho como principal objetivo, adquirir o máximo de conhecimento e evoluir as minhas habilidades em programação 🧠
 
 
