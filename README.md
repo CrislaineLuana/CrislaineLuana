@@ -1,15 +1,22 @@
-### Olá! Eu sou a Crislaine.👋
+💻 Desenvolvedora Full Stack | Criadora de Conteúdo no YouTube
 
-Sou estudante de engenharia de software e atualmente sou programadora na área de desenvolvimento TI.
-tenho como principal objetivo, adquirir o máximo de conhecimento e evoluir as minhas habilidades em programação 🧠
+Olá! 👋 Sou uma Desenvolvedora Full Stack apaixonada por transformar ideias em código. Com 2 anos de experiência, sou especializada em C#, Angular e SQL Server.
 
+🚀 Destaque:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+Desenvolvedora Full Stack com foco em aplicações eficientes.
+Criadora de conteúdo no YouTube, compartilhando projetos reais e conhecimentos de programação de forma didática.
+
+🌐 Tech Stack:
+Linguagens: C#, Angular, SQL Server.
+
+Constante busca por aprimoramento e atualização com as últimas tendências tecnológicas.
+
+🤝 Conecte-se:
+
+Vamos trocar ideias e colaborar! Estou aberta a networking e parcerias.
+
+Youtube: https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ
 
 ##
 
