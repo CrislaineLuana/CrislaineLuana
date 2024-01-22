@@ -16,14 +16,12 @@ Constante busca por aprimoramento e atualização com as últimas tendências te
 
 Vamos trocar ideias e colaborar! Estou aberta a networking e parcerias.
 
-Youtube: https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ
-
 ##
 
 <div> 
 
   <a href="https://www.linkedin.com/in/crislaine-luana-15a2222b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a> 
 </div>
 
 
