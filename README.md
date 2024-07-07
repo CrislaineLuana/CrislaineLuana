@@ -1,6 +1,6 @@
 💻 Desenvolvedora Full Stack | Criadora de Conteúdo no YouTube
 
-Olá! 👋 Sou uma Desenvolvedora Full Stack apaixonada por transformar ideias em código. Com 2 anos de experiência, sou especializada em C#, Angular e SQL Server.
+Olá! 👋 Sou uma Desenvolvedora Full Stack apaixonada por transformar ideias em código. Com 3 anos de experiência, sou especializada em C#, Angular e SQL Server.
 
 🚀 Destaque:
 
@@ -8,7 +8,7 @@ Desenvolvedora Full Stack com foco em aplicações eficientes.
 Criadora de conteúdo no YouTube, compartilhando projetos reais e conhecimentos de programação de forma didática.
 
 🌐 Tech Stack:
-Linguagens: C#, Angular, SQL Server.
+Linguagens: C#, Angular, JavaScript, SQL Server.
 
 Constante busca por aprimoramento e atualização com as últimas tendências tecnológicas.
 
